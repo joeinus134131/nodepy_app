@@ -1,0 +1,21 @@
+{
+  "name": "nodepythonapp",
+  "version": "1.0.0",
+  "description": "for test python in nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodepyapp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gord_project"
+  },
+  "keywords": [
+    "python"
+  ],
+  "author": "EmisiLAB",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
